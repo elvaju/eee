@@ -1,0 +1,15 @@
+#navbar {
+  position: fixed;
+  padding: 15px;
+  border: 3px solid rgba(34, 36, 38, 0.15);
+  background: #d4f713;
+  transition: all 0.4s linear; }
+  #navbar .header {
+    font-size: 2rem; }
+  #navbar #logo:hover {
+    background: #f10707; }
+
+.small {
+  padding: 0 !important; }
+  .small .header {
+    font-size: 1.5rem !important; }
